@@ -1,0 +1,26 @@
+@import url(./reset.css);
+:root{
+    --background-theme: #2d3436 ;
+    --background-list : #d63031;
+    --background-list-even: #b2bec3;
+    --color-text: #fff;
+    --background-level-two:#325;
+    }
+header h1{
+    background-color: var(--background-list-even);
+    text-align: center;
+    line-height: 7rem; 
+    color: var(--color-text);
+}
+section{
+    max-width: 100rem;
+    margin: 5rem auto;
+}
+section h2{
+    text-align: center;
+    background-color: var(--background-level-two);
+    line-height: 6.5rem;
+}
+section ul{
+    line-height: 3.5rem;
+}

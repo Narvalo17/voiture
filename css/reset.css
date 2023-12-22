@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&family=Roboto+Slab:wght@200;300&display=swap');
+html{
+    font-size: 62.5%;
+}
+body{
+    font: "Roboto+Slab" sans-serif;
+    background-color: rgb(56, 57, 56);
+    color: var(--color-text);
+    margin: 0;
+    letter-spacing: .1.6;
+}
+ul, p, ol, figure, blockquote{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+h1,h2,h3{
+    margin: 0;
+    font-weight:  normal;
+}
+button{
+    background: none;
+    padding: 0;
+    border: 0;
+    }
+a{
+    text-decoration: none;
+    color: #333;
+}
+img{
+    display: inline-block;
+    vertical-align: middle;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

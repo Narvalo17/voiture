@@ -1,0 +1,40 @@
+ [
+        {
+          "image": "./image/Dodge_Charger.jpg" ,
+          "marque": "Dodge",
+          "model": "Charger SRT",
+          "annéprod": "1966-1967",
+          "film": "2Guns"
+        },
+        {
+          "image": "./image/mustang.jpg",
+          "marque": "Ford",
+          "model": "Mustang",
+          "annéprod": "1964-1973",
+          "film": "24H Chrono"
+        },
+        {
+          "image": "./image/S1-bmw-m5-e60.jpg",
+          "marque": "BMW",
+          "model": "M5 E60",
+          "annéprod": "2005-2010",
+          "film": "Mission Impossible 4"
+        },
+        {
+          "image": "./image/Mercedes_W124.jpg",
+          "marque": "Mercedes",
+          "model": "220 W125",
+          "annéprod": "1984-1997",
+          "film": "Taxi 1"
+        },
+        {
+          "image": "./image/audi a8.jpg",
+          "marque": "Audi",
+          "model": "A8",
+          "annéprod": "2003-2023",
+          "film": "Transporter 2/3"
+        }
+    ]
+    
+  
+  
